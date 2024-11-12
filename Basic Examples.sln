@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Examples", "Basic Exa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDV Tutarı Hesaplayan Program", "KDV Tutarı Hesaplayan Program\KDV Tutarı Hesaplayan Program.csproj", "{13DE74B3-A968-4F44-83A5-65F0CB49BA44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dik Üçgende Hipotenüs Bulan Program", "Dik Üçgende Hipotenüs Bulan Program\Dik Üçgende Hipotenüs Bulan Program.csproj", "{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{13DE74B3-A968-4F44-83A5-65F0CB49BA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13DE74B3-A968-4F44-83A5-65F0CB49BA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13DE74B3-A968-4F44-83A5-65F0CB49BA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

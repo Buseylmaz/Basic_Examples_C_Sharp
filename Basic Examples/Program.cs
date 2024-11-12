@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Basic_Examples
 {
-
     class Program
     {
         static void Main(string[] args)
@@ -16,6 +15,10 @@ namespace Basic_Examples
             Console.Read();
         }
 
+
+        /// <summary>
+        /// Kullanıcıdan almış oldugu bilgilerle not ortalamasını çıkaran uygulama
+        /// </summary>
         static void Not()
         {
             try

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dik Üçgende Hipotenüs Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taksimetre Programı", "Taksimetre Programı\Taksimetre Programı.csproj", "{10C83904-4FA0-44EF-A62B-23AD18A96269}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dairenin Alanını ve Çevresini Hesaplayan Program", "Dairenin Alanını ve Çevresini Hesaplayan Program\Dairenin Alanını ve Çevresini Hesaplayan Program.csproj", "{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{10C83904-4FA0-44EF-A62B-23AD18A96269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10C83904-4FA0-44EF-A62B-23AD18A96269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10C83904-4FA0-44EF-A62B-23AD18A96269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

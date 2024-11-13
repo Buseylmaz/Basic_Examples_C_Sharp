@@ -10,8 +10,6 @@ namespace Hesap_Makinesi
     {
         static void Main(string[] args)
         {
-            
-
             Console.Write("Kaç tane sayı giriceksiniz: ");
             int kac_sayi = Convert.ToInt32(Console.ReadLine());
 

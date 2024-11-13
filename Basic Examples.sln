@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taksimetre Programı", "Tak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dairenin Alanını ve Çevresini Hesaplayan Program", "Dairenin Alanını ve Çevresini Hesaplayan Program\Dairenin Alanını ve Çevresini Hesaplayan Program.csproj", "{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav Kasa Programı", "Manav Kasa Programı\Manav Kasa Programı.csproj", "{949F662B-C755-45DA-BA14-BBA53C230CAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949F662B-C755-45DA-BA14-BBA53C230CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F662B-C755-45DA-BA14-BBA53C230CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F662B-C755-45DA-BA14-BBA53C230CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F662B-C755-45DA-BA14-BBA53C230CAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

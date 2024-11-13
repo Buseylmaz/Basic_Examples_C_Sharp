@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dik_Üçgende_Hipotenüs_Bulan_Program
+namespace DikUcgendeHipotenusBulanProgram
 {
     class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dairenin_Alanını_ve_Çevresini_Hesaplayan_Program
+namespace DaireninAlanÇevresiniHesaplayanProgram
 {
     class Program
     {

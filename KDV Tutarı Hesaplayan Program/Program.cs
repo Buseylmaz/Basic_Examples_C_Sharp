@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KDV_Tutarı_Hesaplayan_Program
+namespace KDVTutariHesaplayanProgram
 {
     class Program
     {

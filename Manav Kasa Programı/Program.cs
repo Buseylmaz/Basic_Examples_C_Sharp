@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Manav_Kasa_Programı
+namespace ManavKasaProgrami
 {
     class Program
     {

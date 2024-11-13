@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.35130.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Examples", "Basic Examples\Basic Examples.csproj", "{7DA83C1D-0464-4C95-A9F3-363DCFD90FB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Not", "Basic Examples\Not.csproj", "{7DA83C1D-0464-4C95-A9F3-363DCFD90FB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDV Tutarı Hesaplayan Program", "KDV Tutarı Hesaplayan Program\KDV Tutarı Hesaplayan Program.csproj", "{13DE74B3-A968-4F44-83A5-65F0CB49BA44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDVTutariHesaplayanProgram", "KDV Tutarı Hesaplayan Program\KDVTutariHesaplayanProgram.csproj", "{13DE74B3-A968-4F44-83A5-65F0CB49BA44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dik Üçgende Hipotenüs Bulan Program", "Dik Üçgende Hipotenüs Bulan Program\Dik Üçgende Hipotenüs Bulan Program.csproj", "{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DikUcgendeHipotenusBulanProgram", "Dik Üçgende Hipotenüs Bulan Program\DikUcgendeHipotenusBulanProgram.csproj", "{1BEB7377-4F12-45CF-8FDC-9F83288C12C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taksimetre Programı", "Taksimetre Programı\Taksimetre Programı.csproj", "{10C83904-4FA0-44EF-A62B-23AD18A96269}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaksimetreProgrami", "Taksimetre Programı\TaksimetreProgrami.csproj", "{10C83904-4FA0-44EF-A62B-23AD18A96269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dairenin Alanını ve Çevresini Hesaplayan Program", "Dairenin Alanını ve Çevresini Hesaplayan Program\Dairenin Alanını ve Çevresini Hesaplayan Program.csproj", "{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaireninAlanÇevresiniHesaplayanProgram", "Dairenin Alanını ve Çevresini Hesaplayan Program\DaireninAlanÇevresiniHesaplayanProgram.csproj", "{7A9A4A85-BD49-4440-BA80-80BEAE73FF0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav Kasa Programı", "Manav Kasa Programı\Manav Kasa Programı.csproj", "{949F662B-C755-45DA-BA14-BBA53C230CAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManavKasaProgrami", "Manav Kasa Programı\ManavKasaProgrami.csproj", "{949F662B-C755-45DA-BA14-BBA53C230CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesap Makinesi", "Hesap Makinesi\Hesap Makinesi.csproj", "{BA85673A-9039-4F96-92C0-F15D1CD5D449}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "Hesap Makinesi\HesapMakinesi.csproj", "{BA85673A-9039-4F96-92C0-F15D1CD5D449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sifre Dogrulugu", "Sifre Dogrulugu\Sifre Dogrulugu.csproj", "{4FC72759-CD5F-4CE1-AA96-EDC0A2DF7A3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreDogrulugu", "Sifre Dogrulugu\SifreDogrulugu.csproj", "{4FC72759-CD5F-4CE1-AA96-EDC0A2DF7A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayilariBuyuktenKucugeSiralama", "Sayıları Büyükten Küçüğe Sıralama\SayilariBuyuktenKucugeSiralama.csproj", "{2291407E-0598-481E-94FE-371136F6B99D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{4FC72759-CD5F-4CE1-AA96-EDC0A2DF7A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FC72759-CD5F-4CE1-AA96-EDC0A2DF7A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FC72759-CD5F-4CE1-AA96-EDC0A2DF7A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2291407E-0598-481E-94FE-371136F6B99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2291407E-0598-481E-94FE-371136F6B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2291407E-0598-481E-94FE-371136F6B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2291407E-0598-481E-94FE-371136F6B99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
